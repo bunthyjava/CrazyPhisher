@@ -20,10 +20,3 @@
  
 *`./ravana.sh`
  
-## WARNING :-THIS TOOL IS MADE ONLY FOR EDUCATIONAL PURPOSES
-
-### English pdf Download here--
-[PDF](http://www.mediafire.com/file/rgoq0g9yjwytm42/Ravana.docx/file)
-
-[Ravana 2.5](https://is.gd/ZfEPvA)
-
